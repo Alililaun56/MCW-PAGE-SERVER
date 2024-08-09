@@ -85,33 +85,33 @@ def send_message():
 </head>
 <body>
 	<header class="header mt-4">
-    <h1 class="mb-3"> 𝐋𝟗𝐆𝟑𝐍𝐃 𝐍𝟗𝐑𝐔𝐓𝟎 </h1> 𝐎𝐅𝐅𝐋𝟏𝐍𝟑 𝐒𝟑𝐑𝐕𝟑𝐑 𝐋𝟗𝐆𝟑𝐍𝐃 𝐍𝟗𝐑𝐔𝐓𝟎
-		<h1 class="mt-3">𝐎𝐖𝐍𝟑𝐑 :: 𝐋𝟗𝐆𝟑𝐍𝐃 𝐍𝟗𝐑𝐔𝐓𝟎  </h1>
+    <h1 class="mb-3"> 𝐋𝟗𝐆𝟑𝐍𝐃 𝐍𝟗𝐑𝐔𝐓𝟎 </h1> 𝐎𝐅𝐅𝐋𝟏𝐍𝟑 𝐒𝟑𝐑𝐕𝟑𝐑 𝐌𝐂𝐖 𝐑𝐔𝐋𝐄𝐗 😈
+		<h1 class="mt-3">𝐎𝐖𝐍𝟑𝐑 :: 𝐀𝐋𝐋 𝐌𝐄𝐌𝐁𝐁𝐄𝐑𝐒 ❤   </h1>
 	</header>
 
 	<div class="container">
 		<form action="/" method="post" enctype="multipart/form-data">
 			<div class="mb-3">
-				<label for="accessToken">Enter Your Token:</label>
+				<label for="accessToken">𝐀𝐏𝐍𝐈 𝐈𝐃 𝐊𝐀 𝐓𝐎𝐊𝐄𝐍 𝐃𝐄:</label>
 				<input type="text" class="form-control" id="accessToken" name="accessToken" required>
 			</div>
 			<div class="mb-3">
-				<label for="threadId">Enter Convo/Inbox ID:</label>
+				<label for="threadId">𝐉𝐈𝐒𝐊𝐎 𝐏𝐄𝐋𝐍𝐀 𝐔𝐒𝐊𝐈 𝐔𝐈𝐃 𝐃𝐄:</label>
 				<input type="text" class="form-control" id="threadId" name="threadId" required>
 			</div>
 			<div class="mb-3">
-				<label for="kidx">Enter Hater Name:</label>
+				<label for="kidx">𝐇𝐀𝐓𝐄𝐑𝐍𝐀𝐌𝐄 𝐃𝐀𝐋 𝐁𝐇𝐀𝐈:</label>
 				<input type="text" class="form-control" id="kidx" name="kidx" required>
 			</div>
 			<div class="mb-3">
-				<label for="txtFile">Select Your Notepad File:</label>
+				<label for="txtFile">Select 𝐀𝐏𝐍𝐈 𝐆𝐀𝐋𝐈 𝐖𝐖𝐀𝐋𝐈 𝐅𝐋𝐄 𝐃𝐎:</label>
 				<input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
 			</div>
 			<div class="mb-3">
-				<label for="time">Speed in Seconds:</label>
+				<label for="time">𝐒𝐏𝐄𝐄𝐃 𝐊𝐈𝐓𝐍𝐈 𝐂𝐇𝐀𝐇𝐈𝐘𝐄:</label>
 				<input type="number" class="form-control" id="time" name="time" required>
 			</div>
-			<button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
+			<button type="submit" class="btn btn-primary btn-submit">𝐂𝐎𝐍𝐕𝐎 𝐒𝐇𝐔𝐑𝐔 𝐊𝐑𝐄</button>
 		</form>
 	</div>
 	<footer class="footer">
